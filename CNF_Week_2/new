@@ -1,0 +1,8 @@
+import sys
+def main():
+	f = open(data.csv, 'r')
+	for x in f:
+		print (x)
+
+if __name__ == '__main__':
+	main()
